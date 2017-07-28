@@ -67,3 +67,7 @@ s2 = set([7, 8, 9])
 
 s3 = s2 | mset
 print s3
+
+str4 = 'jiazai'
+str5 = str4[3:6]
+print str5

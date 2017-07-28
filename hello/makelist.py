@@ -29,8 +29,9 @@ def fib(x):
 		yield a
 		a, b = b, a+b
 		n = n+1
-
+from collections import Iterable
 fibget = fib(6)
+print isinstance(fibget, Iterable)
 print fibget.next()
 print fibget.next()
 print fibget.next()
