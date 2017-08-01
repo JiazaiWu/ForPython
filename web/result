@@ -1,0 +1,2094 @@
+data 
+
+data 
+
+data 
+
+data 
+
+<html [('class', 'no-js'), ('lang', 'en'), ('dir', 'ltr')]>
+data   
+data 
+
+
+<head []>
+data 
+    
+<meta [('charset', 'utf-8')]>
+data 
+    
+<meta [('http-equiv', 'X-UA-Compatible'), ('content', 'IE=edge')]>
+data 
+
+    
+<link [('rel', 'prefetch'), ('href', '//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js')]>
+data 
+
+    
+<meta [('name', 'application-name'), ('content', 'Python.org')]>
+data 
+    
+<meta [('name', 'msapplication-tooltip'), ('content', 'The official home of the Python Programming Language')]>
+data 
+    
+<meta [('name', 'apple-mobile-web-app-title'), ('content', 'Python.org')]>
+data 
+    
+<meta [('name', 'apple-mobile-web-app-capable'), ('content', 'yes')]>
+data 
+    
+<meta [('name', 'apple-mobile-web-app-status-bar-style'), ('content', 'black')]>
+data 
+
+    
+<meta [('name', 'viewport'), ('content', 'width=device-width, initial-scale=1.0')]>
+data 
+    
+<meta [('name', 'HandheldFriendly'), ('content', 'True')]>
+data 
+    
+<meta [('name', 'format-detection'), ('content', 'telephone=no')]>
+data 
+    
+<meta [('http-equiv', 'cleartype'), ('content', 'on')]>
+data 
+    
+<meta [('http-equiv', 'imagetoolbar'), ('content', 'false')]>
+data 
+
+    
+<script [('src', '/static/js/libs/modernizr.js')]>
+data 
+
+    
+data 
+    
+data 
+    
+
+    
+data 
+
+    
+    
+<link [('rel', 'icon'), ('type', 'image/x-icon'), ('href', '/static/favicon.ico')]>
+data 
+    
+<link [('rel', 'apple-touch-icon-precomposed'), ('sizes', '144x144'), ('href', '/static/apple-touch-icon-144x144-precomposed.png')]>
+data 
+    
+<link [('rel', 'apple-touch-icon-precomposed'), ('sizes', '114x114'), ('href', '/static/apple-touch-icon-114x114-precomposed.png')]>
+data 
+    
+<link [('rel', 'apple-touch-icon-precomposed'), ('sizes', '72x72'), ('href', '/static/apple-touch-icon-72x72-precomposed.png')]>
+data 
+    
+<link [('rel', 'apple-touch-icon-precomposed'), ('href', '/static/apple-touch-icon-precomposed.png')]>
+data 
+    
+<link [('rel', 'apple-touch-icon'), ('href', '/static/apple-touch-icon-precomposed.png')]>
+data 
+
+    
+    
+<meta [('name', 'msapplication-TileImage'), ('content', '/static/metro-icon-144x144-precomposed.png')]>
+data 
+    
+<meta [('name', 'msapplication-TileColor'), ('content', '#3673a5')]>
+data 
+    
+<meta [('name', 'msapplication-navbutton-color'), ('content', '#3673a5')]>
+data 
+
+    
+<title []>
+data Our Events | Python.org
+data 
+
+    
+<meta [('name', 'description'), ('content', 'The official home of the Python Programming Language')]>
+data 
+    
+<meta [('name', 'keywords'), ('content', 'Python programming language object oriented web free open source software license documentation download community')]>
+data 
+
+    
+    
+<meta [('property', 'og:type'), ('content', 'website')]>
+data 
+    
+<meta [('property', 'og:site_name'), ('content', 'Python.org')]>
+data 
+    
+<meta [('property', 'og:title'), ('content', 'Our Events')]>
+data 
+    
+<meta [('property', 'og:description'), ('content', 'The official home of the Python Programming Language')]>
+data 
+    
+    
+<meta [('property', 'og:image'), ('content', 'https://www.python.org/static/opengraph-icon-200x200.png')]>
+data 
+    
+<meta [('property', 'og:image:secure_url'), ('content', 'https://www.python.org/static/opengraph-icon-200x200.png')]>
+data 
+    
+    
+<meta [('property', 'og:url'), ('content', 'https://www.python.org/events/python-events/')]>
+data 
+
+    
+<link [('rel', 'author'), ('href', '/static/humans.txt')]>
+data 
+
+    
+
+    
+    
+<script [('type', 'application/ld+json')]>
+data 
+     {
+       "@context": "http://schema.org",
+       "@type": "WebSite",
+       "url": "https://www.python.org/",
+       "potentialAction": {
+         "@type": "SearchAction",
+         "target": "https://www.python.org/search/?q={search_term_string}",
+         "query-input": "required name=search_term_string"
+       }
+     }
+    
+data 
+
+    
+    
+<script [('type', 'text/javascript')]>
+data 
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39055973-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+data 
+    
+
+data 
+
+
+<body [('class', 'python events default-page')]>
+data 
+
+    
+<div [('id', 'touchnav-wrapper')]>
+data 
+
+        
+<div [('id', 'nojs'), ('class', 'do-not-print')]>
+data 
+            
+<p []>
+<strong []>
+data Notice:
+data  While Javascript is not essential for this website, your interaction with the content will be limited. Please turn Javascript on for the full experience. 
+data 
+        
+data 
+
+        
+data 
+
+        
+data 
+        
+<div [('id', 'top'), ('class', 'top-bar do-not-print')]>
+data 
+
+            
+<nav [('class', 'meta-navigation container'), ('role', 'navigation')]>
+data 
+
+                
+                
+<div [('class', 'skip-link screen-reader-text')]>
+data 
+                    
+<a [('href', '#content'), ('title', 'Skip to content')]>
+data Skip to content
+data 
+                
+data 
+
+                
+                
+<a [('id', 'close-python-network'), ('class', 'jump-link'), ('href', '#python-network'), ('aria-hidden', 'true')]>
+data 
+                    
+<span [('aria-hidden', 'true'), ('class', 'icon-arrow-down')]>
+<span []>
+data  Close
+                
+data 
+
+                
+
+
+<ul [('class', 'menu'), ('role', 'tree')]>
+data 
+    
+    
+<li [('class', 'python-meta ')]>
+data 
+        
+<a [('href', '/'), ('title', 'The Python Programming Language')]>
+data Python
+data 
+    
+data 
+    
+    
+<li [('class', 'psf-meta ')]>
+data 
+        
+<a [('href', '/psf-landing/'), ('title', 'The Python Software Foundation')]>
+data PSF
+data 
+    
+data 
+    
+    
+<li [('class', 'docs-meta ')]>
+data 
+        
+<a [('href', 'https://docs.python.org'), ('title', 'Python Documentation')]>
+data Docs
+data 
+    
+data 
+    
+    
+<li [('class', 'pypi-meta ')]>
+data 
+        
+<a [('href', 'https://pypi.python.org/'), ('title', 'Python Package Index')]>
+data PyPI
+data 
+    
+data 
+    
+    
+<li [('class', 'jobs-meta ')]>
+data 
+        
+<a [('href', '/jobs/'), ('title', 'Python Job Board')]>
+data Jobs
+data 
+    
+data 
+    
+    
+<li [('class', 'shop-meta ')]>
+data 
+        
+<a [('href', '/community/'), ('title', 'Python Community')]>
+data Community
+data 
+    
+data 
+    
+
+data 
+
+
+                
+<a [('id', 'python-network'), ('class', 'jump-link'), ('href', '#top'), ('aria-hidden', 'true')]>
+data 
+                    
+<span [('aria-hidden', 'true'), ('class', 'icon-arrow-up')]>
+<span []>
+data  The Python Network
+                
+data 
+
+            
+data 
+
+        
+data 
+
+        
+data 
+        
+<header [('class', 'main-header'), ('role', 'banner')]>
+data 
+            
+<div [('class', 'container')]>
+data 
+
+                
+<h1 [('class', 'site-headline')]>
+data 
+                    
+<a [('href', '/')]>
+<img [('class', 'python-logo'), ('src', '/static/img/python-logo.png'), ('alt', u'python\u2122')]>
+data 
+                
+data 
+
+                
+<div [('class', 'options-bar do-not-print')]>
+data 
+
+                    
+                    
+<a [('id', 'site-map-link'), ('class', 'jump-to-menu'), ('href', '#site-map')]>
+<span [('class', 'menu-icon')]>
+data  Menu
+<form [('class', 'search-the-site'), ('action', '/search/'), ('method', 'get')]>
+data 
+                        
+<fieldset [('title', 'Search Python.org')]>
+data 
+
+                            
+<span [('aria-hidden', 'true'), ('class', 'icon-search')]>
+data 
+
+                            
+<label [('class', 'screen-reader-text'), ('for', 'id-search-field')]>
+data Search This Site
+data 
+                            
+<input [('id', 'id-search-field'), ('name', 'q'), ('type', 'search'), ('role', 'textbox'), ('class', 'search-field'), ('placeholder', 'Search'), ('value', ''), ('tabindex', '1')]>
+data 
+
+                            
+<button [('type', 'submit'), ('name', 'submit'), ('id', 'submit'), ('class', 'search-button'), ('title', 'Submit this Search'), ('tabindex', '3')]>
+data 
+                                GO
+                            
+data 
+
+                            
+                            
+data 
+
+                        
+data 
+                    
+<span [('class', 'breaker')]>
+<div [('class', 'adjust-font-size'), ('aria-hidden', 'true')]>
+data 
+                        
+<ul [('class', 'navigation menu'), ('aria-label', 'Adjust Text Size on Page')]>
+data 
+                            
+<li [('class', 'tier-1 last'), ('aria-haspopup', 'true')]>
+data 
+                                
+<a [('href', '#'), ('class', 'action-trigger')]>
+<strong []>
+<small []>
+data A
+data  A
+data 
+                                
+<ul [('class', 'subnav menu')]>
+data 
+                                    
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('class', 'text-shrink'), ('title', 'Make Text Smaller'), ('href', 'javascript:;')]>
+data Smaller
+data 
+                                    
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('class', 'text-grow'), ('title', 'Make Text Larger'), ('href', 'javascript:;')]>
+data Larger
+data 
+                                    
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('class', 'text-reset'), ('title', 'Reset any font size changes I have made'), ('href', 'javascript:;')]>
+data Reset
+data 
+                                
+data 
+                            
+data 
+                        
+data 
+                    
+<div [('class', 'winkwink-nudgenudge')]>
+data 
+                        
+<ul [('class', 'navigation menu'), ('aria-label', 'Social Media Navigation')]>
+data 
+                            
+<li [('class', 'tier-1 last'), ('aria-haspopup', 'true')]>
+data 
+                                
+<a [('href', '#'), ('class', 'action-trigger')]>
+data Socialize
+data 
+                                
+<ul [('class', 'subnav menu')]>
+data 
+                                    
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', 'http://plus.google.com/+Python')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-google-plus')]>
+data Google+
+data 
+                                    
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', 'http://www.facebook.com/pythonlang?fref=ts')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-facebook')]>
+data Facebook
+data 
+                                    
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', 'http://twitter.com/ThePSF')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-twitter')]>
+data Twitter
+data 
+                                    
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/community/irc/')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-freenode')]>
+data Chat on IRC
+data 
+                                
+data 
+                            
+data 
+                        
+data 
+                    
+<div [('class', 'account-signin')]>
+data 
+                        
+<ul [('class', 'navigation menu'), ('aria-label', 'Social Media Navigation')]>
+data 
+                            
+<li [('class', 'tier-1 last'), ('aria-haspopup', 'true')]>
+data 
+                                
+                                
+<a [('href', '/accounts/login/'), ('title', 'Sign Up or Sign In to Python.org')]>
+data Sign In
+data 
+                                
+<ul [('class', 'subnav menu')]>
+data 
+                                    
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/accounts/signup/')]>
+data Sign Up / Register
+data 
+                                    
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/accounts/login/')]>
+data Sign In
+data 
+                                
+data 
+                                
+                            
+data 
+                        
+data 
+                    
+data 
+
+                
+data 
+
+                
+<nav [('id', 'mainnav'), ('class', 'python-navigation main-navigation do-not-print'), ('role', 'navigation')]>
+data 
+                    
+                        
+
+<ul [('class', 'navigation menu'), ('role', 'menubar'), ('aria-label', 'Main Navigation')]>
+data 
+  
+    
+    
+    
+<li [('id', 'about'), ('class', 'tier-1 element-1  '), ('aria-haspopup', 'true')]>
+data 
+        
+<a [('href', '/about/'), ('title', ''), ('class', '')]>
+data About
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu'), ('role', 'menu'), ('aria-hidden', 'true')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/about/apps/'), ('title', '')]>
+data Applications
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/about/quotes/'), ('title', '')]>
+data Quotes
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/about/gettingstarted/'), ('title', '')]>
+data Getting Started
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/about/help/'), ('title', '')]>
+data Help
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', 'http://brochure.getpython.info/'), ('title', '')]>
+data Python Brochure
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+    
+    
+<li [('id', 'downloads'), ('class', 'tier-1 element-2  '), ('aria-haspopup', 'true')]>
+data 
+        
+<a [('href', '/downloads/'), ('title', ''), ('class', '')]>
+data Downloads
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu'), ('role', 'menu'), ('aria-hidden', 'true')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/downloads/'), ('title', '')]>
+data All releases
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/downloads/source/'), ('title', '')]>
+data Source code
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/downloads/windows/'), ('title', '')]>
+data Windows
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/downloads/mac-osx/'), ('title', '')]>
+data Mac OS X
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', '/download/other/'), ('title', '')]>
+data Other Platforms
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', 'https://docs.python.org/3/license.html'), ('title', '')]>
+data License
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', '/download/alternatives'), ('title', '')]>
+data Alternative Implementations
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+    
+    
+<li [('id', 'documentation'), ('class', 'tier-1 element-3  '), ('aria-haspopup', 'true')]>
+data 
+        
+<a [('href', '/doc/'), ('title', ''), ('class', '')]>
+data Documentation
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu'), ('role', 'menu'), ('aria-hidden', 'true')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/doc/'), ('title', '')]>
+data Docs
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/doc/av'), ('title', '')]>
+data Audio/Visual Talks
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/BeginnersGuide'), ('title', '')]>
+data Beginner
+data s Guide
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', 'https://docs.python.org/devguide/'), ('title', '')]>
+data Developer
+data s Guide
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', 'https://docs.python.org/faq/'), ('title', '')]>
+data FAQ
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', 'http://wiki.python.org/moin/Languages'), ('title', '')]>
+data Non-English Docs
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', 'http://python.org/dev/peps/'), ('title', '')]>
+data PEP Index
+data 
+    
+        
+<li [('class', 'tier-2 element-8'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/PythonBooks'), ('title', '')]>
+data Python Books
+data 
+    
+        
+<li [('class', 'tier-2 element-9'), ('role', 'treeitem')]>
+<a [('href', '/doc/essays/'), ('title', '')]>
+data Python Essays
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+    
+    
+<li [('id', 'community'), ('class', 'tier-1 element-4  '), ('aria-haspopup', 'true')]>
+data 
+        
+<a [('href', '/community/'), ('title', ''), ('class', '')]>
+data Community
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu'), ('role', 'menu'), ('aria-hidden', 'true')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/community/diversity/'), ('title', '')]>
+data Diversity
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/community/lists/'), ('title', '')]>
+data Mailing Lists
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/community/irc/'), ('title', '')]>
+data IRC
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/community/forums/'), ('title', '')]>
+data Forums
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', '/community/workshops/'), ('title', '')]>
+data Python Conferences
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', '/community/sigs/'), ('title', '')]>
+data Special Interest Groups
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/'), ('title', '')]>
+data Python Wiki
+data 
+    
+        
+<li [('class', 'tier-2 element-8'), ('role', 'treeitem')]>
+<a [('href', '/community/logos/'), ('title', '')]>
+data Python Logo
+data 
+    
+        
+<li [('class', 'tier-2 element-9'), ('role', 'treeitem')]>
+<a [('href', '/community/merchandise/'), ('title', '')]>
+data Merchandise
+data 
+    
+        
+<li [('class', 'tier-2 element-10'), ('role', 'treeitem')]>
+<a [('href', '/community/awards'), ('title', '')]>
+data Community Awards
+data 
+    
+        
+<li [('class', 'tier-2 element-11'), ('role', 'treeitem')]>
+<a [('href', 'https://www.python.org/psf/codeofconduct/'), ('title', '')]>
+data Code of Conduct
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+    
+    
+<li [('id', 'success-stories'), ('class', 'tier-1 element-5  '), ('aria-haspopup', 'true')]>
+data 
+        
+<a [('href', '/about/success/'), ('title', 'success-stories'), ('class', '')]>
+data Success Stories
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu'), ('role', 'menu'), ('aria-hidden', 'true')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#arts'), ('title', '')]>
+data Arts
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#business'), ('title', '')]>
+data Business
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#education'), ('title', '')]>
+data Education
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#engineering'), ('title', '')]>
+data Engineering
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#government'), ('title', '')]>
+data Government
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#scientific'), ('title', '')]>
+data Scientific
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#software-development'), ('title', '')]>
+data Software Development
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+    
+    
+<li [('id', 'news'), ('class', 'tier-1 element-6  '), ('aria-haspopup', 'true')]>
+data 
+        
+<a [('href', '/blogs/'), ('title', 'News from around the Python world'), ('class', '')]>
+data News
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu'), ('role', 'menu'), ('aria-hidden', 'true')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/blogs/'), ('title', 'Python Insider Blog Posts')]>
+data Python News
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', 'http://planetpython.org/'), ('title', 'Planet Python')]>
+data Community News
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', 'http://pyfound.blogspot.com/'), ('title', 'PSF Blog')]>
+data PSF News
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', 'http://pycon.blogspot.com/'), ('title', 'PyCon Blog')]>
+data PyCon News
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+    
+    
+<li [('id', 'events'), ('class', 'tier-1 element-7  '), ('aria-haspopup', 'true')]>
+data 
+        
+<a [('href', '/events/'), ('title', ''), ('class', '')]>
+data Events
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu'), ('role', 'menu'), ('aria-hidden', 'true')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/events/python-events'), ('title', '')]>
+data Python Events
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/events/python-user-group/'), ('title', '')]>
+data User Group Events
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/events/python-events/past/'), ('title', '')]>
+data Python Events Archive
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/events/python-user-group/past/'), ('title', '')]>
+data User Group Events Archive
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event'), ('title', '')]>
+data Submit an Event
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+    
+    
+  
+
+data 
+
+                    
+                
+data 
+
+                
+<div [('class', 'header-banner ')]>
+data  
+data 
+                    
+    
+
+                
+data 
+
+                
+                
+
+             
+data 
+        
+data 
+
+        
+<div [('id', 'content'), ('class', 'content-wrapper')]>
+data 
+            
+data 
+            
+<div [('class', 'container')]>
+data 
+
+                
+<section [('class', 'main-content with-right-sidebar'), ('role', 'main')]>
+data 
+
+                    
+                    
+
+                    
+
+                    
+        
+        
+        
+<header [('class', 'article-header')]>
+data 
+            
+<h3 []>
+data from the Python Events Calendar
+data 
+        
+data 
+        
+        
+        
+<div [('class', 'most-recent-events')]>
+data 
+            
+<div [('class', 'shrubbery')]>
+data 
+                
+<h2 [('class', 'widget-title')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-calendar')]>
+data Upcoming Events
+data 
+                
+                
+<p [('class', 'give-me-more')]>
+<a [('href', '?page=2'), ('title', 'More Events')]>
+data More
+data 
+                
+                
+<ul [('class', 'list-recent-events menu')]>
+data 
+                
+                    
+<li []>
+data 
+                        
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/478/')]>
+data PyCon AU 2017
+data 
+                        
+<p []>
+data 
+                            
+                            
+
+<time [('datetime', '2017-08-03T00:00:00+00:00')]>
+data 03 Aug. 
+data  09 Aug. 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                            
+
+                            
+                            
+<span [('class', 'event-location')]>
+data Melbourne Convention and Exhibition Centre, 1 Convention Centre Pl, South Wharf VIC 3006, Australia
+data 
+                            
+                        
+data 
+                    
+data 
+                
+                    
+<li []>
+data 
+                        
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/545/')]>
+data PyCon KR 2017
+data 
+                        
+<p []>
+data 
+                            
+                            
+
+<time [('datetime', '2017-08-12T00:00:00+00:00')]>
+data 12 Aug. 
+data  16 Aug. 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                            
+
+                            
+                            
+<span [('class', 'event-location')]>
+data COEX 513, Yeongdong-daero, Gangnam-gu Seoul 06164, Republic of Korea
+data 
+                            
+                        
+data 
+                    
+data 
+                
+                    
+<li []>
+data 
+                        
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/497/')]>
+data PyCon Amazônia 2017
+data 
+                        
+<p []>
+data 
+                            
+                            
+
+<time [('datetime', '2017-08-12T00:00:00+00:00')]>
+data 12 Aug. 
+data  14 Aug. 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                            
+
+                            
+                            
+<span [('class', 'event-location')]>
+data Manaus, Amazonas, Brazil
+data 
+                            
+                        
+data 
+                    
+data 
+                
+                    
+<li []>
+data 
+                        
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/495/')]>
+data DjangoCon US 2017
+data 
+                        
+<p []>
+data 
+                            
+                            
+
+<time [('datetime', '2017-08-13T00:00:00+00:00')]>
+data 13 Aug. 
+data  19 Aug. 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                            
+
+                            
+                            
+<span [('class', 'event-location')]>
+data Spokane, WA, USA
+data 
+                            
+                        
+data 
+                    
+data 
+                
+                    
+<li []>
+data 
+                        
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/530/')]>
+data PyCon PL 2017
+data 
+                        
+<p []>
+data 
+                            
+                            
+
+<time [('datetime', '2017-08-17T00:00:00+00:00')]>
+data 17 Aug. 
+data  21 Aug. 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                            
+
+                            
+                            
+<span [('class', 'event-location')]>
+data Hotel Ossa Congress 
+data  SPA, Ossa, Poland
+data 
+                            
+                        
+data 
+                    
+data 
+                
+                    
+<li []>
+data 
+                        
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/561/')]>
+data PyCon Zimbabwe 2017
+data 
+                        
+<p []>
+data 
+                            
+                            
+
+<time [('datetime', '2017-08-23T00:00:00+00:00')]>
+data 23 Aug. 
+data  27 Aug. 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                            
+
+                            
+                            
+<span [('class', 'event-location')]>
+data Zimbabwe Tourism Authority, 55 Samora Machel Avenue, Harare, Zimbabwe
+data 
+                            
+                        
+data 
+                    
+data 
+                
+                
+data 
+            
+data 
+
+            
+            
+<h3 [('class', 'widget-title just-missed')]>
+data You just missed...
+data 
+            
+<ul [('class', 'list-recent-events menu')]>
+data 
+                
+                
+<li []>
+data 
+                    
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/489/')]>
+data PyOhio 2017
+data 
+                    
+<p []>
+data 
+                        
+                        
+
+<time [('datetime', '2017-07-29T00:00:00+00:00')]>
+data 29 July 
+data  31 July 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                        
+                        
+                        
+                        
+<span [('class', 'event-location')]>
+data Columbus, Ohio, USA
+data 
+                        
+                    
+data 
+                
+data 
+                
+                
+<li []>
+data 
+                    
+<h3 [('class', 'event-title')]>
+<a [('href', '/events/python-events/542/')]>
+data PyCon Russia 
+data 
+                    
+<p []>
+data 
+                        
+                        
+
+<time [('datetime', '2017-07-16T00:00:00+00:00')]>
+data 16 July 
+data  18 July 
+<span [('class', 'say-no-more')]>
+data  2017
+data 
+
+                        
+                        
+                        
+                        
+<span [('class', 'event-location')]>
+data Hotel Cronwell Yahonty Tarusa, Gribovka, Kaluga Oblast, Russia, 249174
+data 
+                        
+                    
+data 
+                
+data 
+                
+            
+data 
+            
+        
+data 
+
+
+                
+data 
+
+                
+                
+
+                
+    
+<aside [('class', 'right-sidebar'), ('role', 'secondary')]>
+data 
+        
+<div [('class', 'sidebar-widget subscribe-widget')]>
+data 
+            
+<h2 [('class', 'widget-title')]>
+data Python Event Subscriptions
+data 
+            
+<p []>
+data Subscribe to Python Event Calendars:
+data 
+            
+<ul [('class', 'menu')]>
+data 
+                
+                
+                
+<li []>
+<a [('href', 'https://www.google.com/calendar/ical/j7gov1cmnqr9tvg14k621j7t5c@group.calendar.google.com/public/basic.ics')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-ical')]>
+data Events in iCal format
+data 
+                
+            
+data 
+            
+<h2 [('class', 'widget-title')]>
+data Python Events Calendars
+data 
+
+
+data 
+
+
+<p []>
+data For Python events near you, please have a look at the 
+<a [('href', 'http://lmorillas.github.io/python_events/')]>
+<b []>
+data Python events map
+data .
+data 
+
+
+<p []>
+data The Python events calendars are maintained by the 
+<a [('href', 'https://wiki.python.org/moin/PythonEventsCalendar#Python_Calendar_Team')]>
+data events calendar team
+data .
+data 
+
+
+<p []>
+data Please see the 
+<a [('href', 'https://wiki.python.org/moin/PythonEventsCalendar')]>
+data events calendar project page
+data  for details on how to 
+<a [('href', 'https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event')]>
+data submit events
+data , 
+<a [('href', 'https://wiki.python.org/moin/PythonEventsCalendar#Available_Calendars')]>
+data subscribe to the calendars
+data , get 
+<a [('href', 'https://twitter.com/PythonEvents')]>
+data Twitter feeds
+data  or embed them.
+data 
+
+
+<p []>
+data Thank you.
+data 
+
+
+	    
+data 
+        
+        
+        
+        
+        
+    
+data 
+
+
+
+            
+data 
+        
+data 
+
+        
+data 
+        
+<footer [('id', 'site-map'), ('class', 'main-footer'), ('role', 'contentinfo')]>
+data 
+            
+<div [('class', 'main-footer-links')]>
+data 
+                
+<div [('class', 'container')]>
+data 
+
+                    
+                    
+<a [('id', 'back-to-top-1'), ('class', 'jump-link'), ('href', '#python-network')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-arrow-up')]>
+<span []>
+data  Back to Top
+data 
+
+                    
+
+
+<ul [('class', 'sitemap navigation menu do-not-print'), ('role', 'tree'), ('id', 'container')]>
+data 
+    
+    
+<li [('class', 'tier-1 element-1')]>
+data 
+        
+<a [('href', '/about/')]>
+data About
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/about/apps/'), ('title', '')]>
+data Applications
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/about/quotes/'), ('title', '')]>
+data Quotes
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/about/gettingstarted/'), ('title', '')]>
+data Getting Started
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/about/help/'), ('title', '')]>
+data Help
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', 'http://brochure.getpython.info/'), ('title', '')]>
+data Python Brochure
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+<li [('class', 'tier-1 element-2')]>
+data 
+        
+<a [('href', '/downloads/')]>
+data Downloads
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/downloads/'), ('title', '')]>
+data All releases
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/downloads/source/'), ('title', '')]>
+data Source code
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/downloads/windows/'), ('title', '')]>
+data Windows
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/downloads/mac-osx/'), ('title', '')]>
+data Mac OS X
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', '/download/other/'), ('title', '')]>
+data Other Platforms
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', 'https://docs.python.org/3/license.html'), ('title', '')]>
+data License
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', '/download/alternatives'), ('title', '')]>
+data Alternative Implementations
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+<li [('class', 'tier-1 element-3')]>
+data 
+        
+<a [('href', '/doc/')]>
+data Documentation
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/doc/'), ('title', '')]>
+data Docs
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/doc/av'), ('title', '')]>
+data Audio/Visual Talks
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/BeginnersGuide'), ('title', '')]>
+data Beginner
+data s Guide
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', 'https://docs.python.org/devguide/'), ('title', '')]>
+data Developer
+data s Guide
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', 'https://docs.python.org/faq/'), ('title', '')]>
+data FAQ
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', 'http://wiki.python.org/moin/Languages'), ('title', '')]>
+data Non-English Docs
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', 'http://python.org/dev/peps/'), ('title', '')]>
+data PEP Index
+data 
+    
+        
+<li [('class', 'tier-2 element-8'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/PythonBooks'), ('title', '')]>
+data Python Books
+data 
+    
+        
+<li [('class', 'tier-2 element-9'), ('role', 'treeitem')]>
+<a [('href', '/doc/essays/'), ('title', '')]>
+data Python Essays
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+<li [('class', 'tier-1 element-4')]>
+data 
+        
+<a [('href', '/community/')]>
+data Community
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/community/diversity/'), ('title', '')]>
+data Diversity
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/community/lists/'), ('title', '')]>
+data Mailing Lists
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/community/irc/'), ('title', '')]>
+data IRC
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/community/forums/'), ('title', '')]>
+data Forums
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', '/community/workshops/'), ('title', '')]>
+data Python Conferences
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', '/community/sigs/'), ('title', '')]>
+data Special Interest Groups
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/'), ('title', '')]>
+data Python Wiki
+data 
+    
+        
+<li [('class', 'tier-2 element-8'), ('role', 'treeitem')]>
+<a [('href', '/community/logos/'), ('title', '')]>
+data Python Logo
+data 
+    
+        
+<li [('class', 'tier-2 element-9'), ('role', 'treeitem')]>
+<a [('href', '/community/merchandise/'), ('title', '')]>
+data Merchandise
+data 
+    
+        
+<li [('class', 'tier-2 element-10'), ('role', 'treeitem')]>
+<a [('href', '/community/awards'), ('title', '')]>
+data Community Awards
+data 
+    
+        
+<li [('class', 'tier-2 element-11'), ('role', 'treeitem')]>
+<a [('href', 'https://www.python.org/psf/codeofconduct/'), ('title', '')]>
+data Code of Conduct
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+<li [('class', 'tier-1 element-5')]>
+data 
+        
+<a [('href', '/about/success/'), ('title', 'success-stories')]>
+data Success Stories
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#arts'), ('title', '')]>
+data Arts
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#business'), ('title', '')]>
+data Business
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#education'), ('title', '')]>
+data Education
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#engineering'), ('title', '')]>
+data Engineering
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#government'), ('title', '')]>
+data Government
+data 
+    
+        
+<li [('class', 'tier-2 element-6'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#scientific'), ('title', '')]>
+data Scientific
+data 
+    
+        
+<li [('class', 'tier-2 element-7'), ('role', 'treeitem')]>
+<a [('href', '/about/success/#software-development'), ('title', '')]>
+data Software Development
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+<li [('class', 'tier-1 element-6')]>
+data 
+        
+<a [('href', '/blogs/'), ('title', 'News from around the Python world')]>
+data News
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/blogs/'), ('title', 'Python Insider Blog Posts')]>
+data Python News
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', 'http://planetpython.org/'), ('title', 'Planet Python')]>
+data Community News
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', 'http://pyfound.blogspot.com/'), ('title', 'PSF Blog')]>
+data PSF News
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', 'http://pycon.blogspot.com/'), ('title', 'PyCon Blog')]>
+data PyCon News
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+<li [('class', 'tier-1 element-7')]>
+data 
+        
+<a [('href', '/events/')]>
+data Events
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', '/events/python-events'), ('title', '')]>
+data Python Events
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', '/events/python-user-group/'), ('title', '')]>
+data User Group Events
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', '/events/python-events/past/'), ('title', '')]>
+data Python Events Archive
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/events/python-user-group/past/'), ('title', '')]>
+data User Group Events Archive
+data 
+    
+        
+<li [('class', 'tier-2 element-5'), ('role', 'treeitem')]>
+<a [('href', 'https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event'), ('title', '')]>
+data Submit an Event
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+    
+<li [('class', 'tier-1 element-8')]>
+data 
+        
+<a [('href', '/dev/')]>
+data Contributing
+data 
+        
+            
+
+
+<ul [('class', 'subnav menu')]>
+data 
+    
+        
+<li [('class', 'tier-2 element-1'), ('role', 'treeitem')]>
+<a [('href', 'http://docs.python.org/devguide/'), ('title', '')]>
+data Developer
+data s Guide
+data 
+    
+        
+<li [('class', 'tier-2 element-2'), ('role', 'treeitem')]>
+<a [('href', 'https://bugs.python.org/'), ('title', '')]>
+data Issue Tracker
+data 
+    
+        
+<li [('class', 'tier-2 element-3'), ('role', 'treeitem')]>
+<a [('href', 'https://mail.python.org/mailman/listinfo/python-dev'), ('title', '')]>
+data python-dev list
+data 
+    
+        
+<li [('class', 'tier-2 element-4'), ('role', 'treeitem')]>
+<a [('href', '/dev/core-mentorship/'), ('title', '')]>
+data Core Mentorship
+data 
+    
+
+data 
+
+        
+    
+data 
+    
+
+data 
+
+
+                    
+<a [('id', 'back-to-top-2'), ('class', 'jump-link'), ('href', '#python-network')]>
+<span [('aria-hidden', 'true'), ('class', 'icon-arrow-up')]>
+<span []>
+data  Back to Top
+data 
+                    
+
+                
+data 
+            
+data  
+data 
+
+            
+<div [('class', 'site-base')]>
+data 
+                
+<div [('class', 'container')]>
+data 
+                    
+                    
+<ul [('class', 'footer-links navigation menu do-not-print'), ('role', 'tree')]>
+data 
+                        
+<li [('class', 'tier-1 element-1')]>
+<a [('href', '/about/help/')]>
+data Help 
+data  
+<span [('class', 'say-no-more')]>
+data General
+data  Contact
+data 
+                        
+<li [('class', 'tier-1 element-2')]>
+<a [('href', '/community/diversity/')]>
+data Diversity 
+<span [('class', 'say-no-more')]>
+data Initiatives
+data 
+                        
+<li [('class', 'tier-1 element-3')]>
+<a [('href', 'https://github.com/python/pythondotorg/issues')]>
+data Submit Website Bug
+data 
+                        
+<li [('class', 'tier-1 element-4')]>
+data 
+                            
+<a [('href', 'https://status.python.org/')]>
+data Status 
+<span [('class', 'python-status-indicator-default'), ('id', 'python-status-indicator')]>
+data 
+                        
+data 
+                    
+data 
+
+                    
+<div [('class', 'copyright')]>
+data 
+                        
+<p []>
+<small []>
+data 
+                            
+<span [('class', 'pre')]>
+data Copyright 
+data 2001-2017.
+data 
+                            
+<span [('class', 'pre')]>
+<a [('href', '/psf-landing/')]>
+data Python Software Foundation
+data 
+                            
+<span [('class', 'pre')]>
+<a [('href', '/about/legal/')]>
+data Legal Statements
+data 
+                            
+<span [('class', 'pre')]>
+<a [('href', '/privacy/')]>
+data Privacy Policy
+data 
+                        
+data 
+                    
+data 
+
+                
+data 
+            
+data 
+
+        
+data 
+
+    
+data 
+
+    
+    
+<script [('src', '//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js')]>
+data 
+    
+<script []>
+data window.jQuery || document.write('<script src="/static/js/libs/jquery-1.8.2.min.js"><\/script>')
+data 
+
+    
+<script [('src', '/static/js/libs/masonry.pkgd.min.js')]>
+data 
+
+    
+<script [('type', 'text/javascript'), ('src', '/static/js/main-min.js'), ('charset', 'utf-8')]>
+data 
+    
+
+    
+data 
+
+    
+data 
+
+    
+
+    
+    
+
+
+data 
+
+data 
+
+[('event-title', 'PyCon AU 2017'), ('time', '03 Aug. '), ('event-location', 'Melbourne Convention and Exhibition Centre, 1 Convention Centre Pl, South Wharf VIC 3006, Australia'), ('event-title', 'PyCon KR 2017'), ('time', '12 Aug. '), ('event-location', 'COEX 513, Yeongdong-daero, Gangnam-gu Seoul 06164, Republic of Korea'), ('event-title', 'PyCon Amaz\xc3\xb4nia 2017'), ('time', '12 Aug. '), ('event-location', 'Manaus, Amazonas, Brazil'), ('event-title', 'DjangoCon US 2017'), ('time', '13 Aug. '), ('event-location', 'Spokane, WA, USA'), ('event-title', 'PyCon PL 2017'), ('time', '17 Aug. '), ('event-location', 'Hotel Ossa Congress '), ('event-title', 'PyCon Zimbabwe 2017'), ('time', '23 Aug. '), ('event-location', 'Zimbabwe Tourism Authority, 55 Samora Machel Avenue, Harare, Zimbabwe'), ('event-title', 'PyOhio 2017'), ('time', '29 July '), ('event-location', 'Columbus, Ohio, USA'), ('event-title', 'PyCon Russia '), ('time', '16 July '), ('event-location', 'Hotel Cronwell Yahonty Tarusa, Gribovka, Kaluga Oblast, Russia, 249174')]
