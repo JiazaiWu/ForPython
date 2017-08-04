@@ -11,7 +11,7 @@ def default_compare(leftval, rightval):
 	else:
 		return (False, None)
 
-def draw_node(node, x, y, px=None, py=None):
+def draw_node(node, x, y, h, px=None, py=None):
 	c = 'r' if node.color == 0 else 'k'
 	strval = str(node.value)
 	if px == None and py == None:
@@ -20,9 +20,9 @@ def draw_node(node, x, y, px=None, py=None):
 	else:
 		plt.annotate(strval, xy=(px, py), xytext=(x, y), arrowprops=dict(arrowstyle="-", ), color=c)
 	if node.leftchild != None:
-		draw_node(node.leftchild, x/2.0, y-2, x, y)
+		draw_node(node.leftchild, x-16.0/h, y-h, 2*h, x, y)
 	if node.rightchild != None:
-		draw_node(node.rightchild, (x+30)/2.0, y-2, x, y)
+		draw_node(node.rightchild, x+16.0/h, y-h, 2*h, x, y)
 
 class rbtree(object):
 	class rbtree_node(object):
@@ -59,8 +59,9 @@ class rbtree(object):
 			plt.xticks(x_axis, x_axis, rotation=0)
 			plt.yticks(y_axis, y_axis, rotation=0)
 			x = 15
-			y = 29
-			draw_node(self, x, y)
+			y = 29.5
+			h = 2 
+			draw_node(self, x, y, h)
 			plt.show()
 
 	def __init__(self, value=None):
@@ -119,4 +120,6 @@ if __name__ == '__main__':
 	rnode = rbtree.rbtree_node(11)
 	mtree.inter_node(lnode)
 	mtree.inter_node(rnode)
+	mtree.inter_node(rbtree.rbtree_node(6))
+	mtree.inter_node(rbtree.rbtree_node(7))
 	mtree.show_tree()
