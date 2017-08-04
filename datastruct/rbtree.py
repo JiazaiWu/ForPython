@@ -1,13 +1,28 @@
 # rbtree.py
 # -*- coding: utf-8 -*-
 #default compare function
+import matplotlib.pyplot as plt
+
 def default_compare(leftval, rightval):
 	if leftval < rightval:
-		return (True. leftval)
+		return (True, leftval)
 	elif leftval > rightval:
 		return (False, rightval)
 	else:
 		return (False, None)
+
+def draw_node(node, x, y, px=None, py=None):
+	c = 'r' if node.color == 0 else 'k'
+	strval = str(node.value)
+	if px == None and py == None:
+		#there xy can not = None
+		plt.annotate(strval, xy=(0, 0), xytext=(x, y), color=c)
+	else:
+		plt.annotate(strval, xy=(px, py), xytext=(x, y), arrowprops=dict(arrowstyle="-", ), color=c)
+	if node.leftchild != None:
+		draw_node(node.leftchild, x/2.0, y-2, x, y)
+	if node.rightchild != None:
+		draw_node(node.rightchild, (x+30)/2.0, y-2, x, y)
 
 class rbtree(object):
 	class rbtree_node(object):
@@ -26,8 +41,27 @@ class rbtree(object):
 			self.rightchild = node
 			node.parent = self
 
-		def show_value(self):
-			print 'color %s value %d' %('red' if self.color == 0 else 'black', self.value)
+		def node_height(self):
+			pnode = self
+			#Nil leaf considered as black node, so h default is 1
+			h = 1
+			while pnode != None:
+			 	if pnode.color != 0:
+			 		h = h + 1
+			 	pnode = pnode.leftchild
+			return h
+
+
+
+		def show_all(self):
+			x_axis = range(1, 31)
+			y_axis = range(1, 31)
+			plt.xticks(x_axis, x_axis, rotation=0)
+			plt.yticks(y_axis, y_axis, rotation=0)
+			x = 15
+			y = 29
+			draw_node(self, x, y)
+			plt.show()
 
 	def __init__(self, value=None):
 		if value != None:
@@ -36,6 +70,20 @@ class rbtree(object):
 			self.root.color = 1
 		self.compare_function = default_compare
 
+	def set_compare_func(self, func):
+		self.compare_function = func
+
+	#gei height of tree
+	def get_height(self):
+		if self.root != None:
+			return self.root.node_height()
+		return 0
+
+	def show_tree(self):
+		if self.root != None:
+			self.root.show_all()
+		else:
+			print 'EMPTY TREE!!!!!'
 
 	def inter_node(self, node):
 		if self.root == None:
@@ -45,7 +93,7 @@ class rbtree(object):
 
 		pnode = self.root
 		while True:
-			ret, val = self.compare_function(pnode.value, node.value)
+			ret, val = self.compare_function(node.value, pnode.value)
 			if val == None:
 				return
 			elif ret == True:
@@ -62,11 +110,13 @@ class rbtree(object):
 					return
 
 
-
 	def adjust_tree(self, node):
 		pass
 
 if __name__ == '__main__':
 	mtree = rbtree(10)
-	nnode = rbtree.rbtree_node(5)
-	mtree.inter_node(nnode)
+	lnode = rbtree.rbtree_node(5)
+	rnode = rbtree.rbtree_node(11)
+	mtree.inter_node(lnode)
+	mtree.inter_node(rnode)
+	mtree.show_tree()
