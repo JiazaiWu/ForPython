@@ -28,7 +28,9 @@ def calcShannonEnt(dataSet):
         prob = float(labelCounts[key])/numEntries
         shannonEnt -= prob * log(prob,2) #log base 2
     return shannonEnt
-    
+
+#select ROWS from dataset  where axis == value
+#retDataSet is [[],[]...]
 def splitDataSet(dataSet, axis, value):
     retDataSet = []
     for featVec in dataSet:

@@ -29,6 +29,11 @@ def setOfWords2Vec(vocabList, inputSet):
         else: print "the word: %s is not in my Vocabulary!" % word
     return returnVec
 
+# to see Laplacian Smoothing--https://zhuanlan.zhihu.com/p/26329951
+# the trainMatrix's row vector is wordsVector
+# len(trainMatrix) should equal to len(trainCategory)
+# p1Num[i] means the times of wordlist[i] which occur in abusive
+# p1Vect[i] means the P{ wordlist[i] occur|abusive == true}
 def trainNB0(trainMatrix,trainCategory):
     numTrainDocs = len(trainMatrix)
     numWords = len(trainMatrix[0])
@@ -46,6 +51,11 @@ def trainNB0(trainMatrix,trainCategory):
     p0Vect = log(p0Num/p0Denom)          #change to log()
     return p0Vect,p1Vect,pAbusive
 
+# to see Laplacian Smoothing--https://zhuanlan.zhihu.com/p/26329951
+# the trainMatrix's row vector is wordsVector
+# len(trainMatrix) should equal to len(trainCategory)
+# p1Num[i] means the times of wordlist[i] which occur in abusive
+# p1Vect[i] means the P{ wordlist[i] occur|abusive == true}
 def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
     p1 = sum(vec2Classify * p1Vec) + log(pClass1)    #element-wise mult
     p0 = sum(vec2Classify * p0Vec) + log(1.0 - pClass1)
